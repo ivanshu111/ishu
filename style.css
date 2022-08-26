@@ -1,0 +1,29 @@
+body{
+    background-color:#EAF6F6;
+}
+hr{
+    
+    border-style:none;
+    border-top-style: dotted;
+    width: 5%;
+    border-color: grey;
+    border-width: 4px;
+   
+}
+h1,h3{
+    color: #66BFBF;
+}
+h1{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    width: 50%;
+
+}
+h3{
+    margin-left: 15px;
+}
+h1:hover{
+    color:goldenrod;
+}
+img:hover{
+    border-radius: 100%;
+}
